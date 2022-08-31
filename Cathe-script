@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gipkz/combat/main/script", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gipkz/farm-combat-2/main/script", true))()
